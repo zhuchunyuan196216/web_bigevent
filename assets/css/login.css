@@ -52,3 +52,8 @@ html,body {
     top: 10px;
     left: 10px;
 }
+
+.layui-form-item a {
+    font-size: 12px;
+    text-decoration: underline;
+}
